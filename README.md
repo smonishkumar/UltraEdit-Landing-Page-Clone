@@ -1,0 +1,1 @@
+# A simple clone of the UltraEdit landing page built using only HTML and CSS
