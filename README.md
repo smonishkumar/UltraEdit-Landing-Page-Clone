@@ -15,7 +15,7 @@ This clone was created as a practice project for HTML and CSS. Please be aware t
 
 
 ## 📸 Screenshots
-Here are some screenshots of the UltraEdit-Clone landing page: <br><br>
+Here are some screenshots of the landing page of UltraEdit-Clone: <br><br>
 <img src="assets\Screenshot_clone_1.png" alt="Screenshot-1" width="550">
 <img src="assets\Screenshot_clone_2.png" alt="Screenshot-2" width="550">
 <img src="assets\Screenshot_clone_3.png" alt="Screenshot-3" width="550">
